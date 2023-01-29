@@ -13,7 +13,7 @@ I Am Telegram URL Uploader Bot.
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b> 👉 Create own Clone Bot Check Source /about</b>"
     FORMAT_SELECTION = "Set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\n\nYou can use /deletethumbnail to delete the auto-generated thumbnail\n"
-    SET_CUSTOM_USERNAME_PASSWORD = """<b>👮‍♂ Powered By :</b> @LISA_FAN_LK"""
+    SET_CUSTOM_USERNAME_PASSWORD = """<b>👮‍♂ Powered By :</b> @Jivani_Priyanm"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "📥 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶"
     UPLOAD_START = "📤 𝚄𝙿𝙻𝙾𝙰𝙳𝙸𝙽𝙶"
@@ -39,7 +39,7 @@ I Am Telegram URL Uploader Bot.
 
 <b>🔘 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 1.4.16</a>
 
-<b>🔘 Creater :</b> @LISA_FAN_LK"""
+<b>🔘 Creater :</b> @Jivani_Priyanm"""
 
     HELP_USER = """𒊹︎︎︎ HOW TO UPLOAD FILE OR MEDIA
     
